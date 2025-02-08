@@ -8,7 +8,7 @@ I'm an Analytics Engineer @FlipsideCrypto.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **I'm an Early 🐤** 
 
@@ -42,7 +42,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/02/2025 17:22:07 UTC
+ Last Updated on 08/02/2025 06:29:39 UTC
 <!--END_SECTION:waka-->
 
 ### Thanks

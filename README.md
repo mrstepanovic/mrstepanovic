@@ -8,7 +8,7 @@ I'm an Analytics Engineer @FlipsideCrypto.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -46,7 +46,7 @@ Mac                      3 hrs 37 mins       ███████████�
 ```
 
 
- Last Updated on 24/03/2025 06:35:54 UTC
+ Last Updated on 25/03/2025 06:35:41 UTC
 <!--END_SECTION:waka-->
 
 ### Thanks

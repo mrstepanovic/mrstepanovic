@@ -1,4 +1,4 @@
-Data @FlipsideCrypto.
+Data at [Flipside Crypto](https://flipsidecrypto.xyz/home/).
 
 **I'm an Early 🐤** 
 

@@ -1,14 +1,4 @@
-## Hi there 👋
-
-### About Me
-
-I'm an Analytics Engineer @FlipsideCrypto.
-  
-## Stats for fun
-
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+Data @FlipsideCrypto.
 
 **I'm an Early 🐤** 
 
